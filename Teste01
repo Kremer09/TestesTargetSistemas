@@ -1,0 +1,8 @@
+1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
+Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
+Imprimir(SOMA);
+Ao final do processamento, qual será o valor da variável SOMA?
+
+
+Ao final o valor da variavel SOMA será de 91, o trecho do código está basicamente fazendo um loop onde o K tem que chegar até o numero 13, e vai somando cada valor do K na variavel SOMA.
+Então ele vai somando 1 + 2 + 3 + 4 + 5 ...... até o + 13 que dá = 91.
